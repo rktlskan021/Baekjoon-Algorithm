@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-    int count = 0, i = 655, n;
+    int count = 0, i = 665, n;
     cin >> n;
     while(true){
         if(count == n){
